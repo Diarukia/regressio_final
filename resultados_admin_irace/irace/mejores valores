@@ -1,0 +1,344 @@
+Sphere_function
+best fitness :  0.0
+peor fitness :  186.47298469398703
+
+vamos en la iteracion  0
+best fitness :  0.0
+peor fitness :  81.47466975676903
+
+vamos en la iteracion  1
+best fitness :  0.0
+peor fitness :  69.77543265280663
+
+vamos en la iteracion  2
+best fitness :  0.0
+peor fitness :  46.18585298478316
+
+vamos en la iteracion  3
+best fitness :  0.0
+peor fitness :  72.38035974740332
+
+vamos en la iteracion  4
+best fitness :  0.0
+peor fitness :  184.1524170093049
+
+vamos en la iteracion  5
+best fitness :  0.0
+peor fitness :  29.26655762632363
+
+vamos en la iteracion  6
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  7
+best fitness :  0.0
+peor fitness :  71.54703080691127
+
+vamos en la iteracion  8
+best fitness :  0.0
+peor fitness :  28.278664252336167
+
+vamos en la iteracion  9
+best fitness :  0.0
+worst fitness :  186.47298469398703
+Schwefel_function_2_22
+best fitness :  0.0
+peor fitness :  22.21195485639196
+
+vamos en la iteracion  0
+best fitness :  0.0
+peor fitness :  14.709287784133105
+
+vamos en la iteracion  1
+best fitness :  0.0
+peor fitness :  21.78833280966731
+
+vamos en la iteracion  2
+best fitness :  0.0
+peor fitness :  21.654079092060833
+
+vamos en la iteracion  3
+best fitness :  0.0
+peor fitness :  14.876885246396176
+
+vamos en la iteracion  4
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  5
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  6
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  7
+best fitness :  0.0
+peor fitness :  8.991956558227198
+
+vamos en la iteracion  8
+best fitness :  0.0
+peor fitness :  8.817211878499169
+
+vamos en la iteracion  9
+best fitness :  0.0
+worst fitness :  22.21195485639196
+Schwefel_function_1_2
+best fitness :  0.0
+peor fitness :  211802.9953859404
+
+vamos en la iteracion  0
+best fitness :  0.0
+peor fitness :  468809.32746005664
+
+vamos en la iteracion  1
+best fitness :  0.0
+peor fitness :  456390.4571332935
+
+vamos en la iteracion  2
+best fitness :  0.0
+peor fitness :  213197.91988828787
+
+vamos en la iteracion  3
+best fitness :  0.0
+peor fitness :  75955.95586725576
+
+vamos en la iteracion  4
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  5
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  6
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  7
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  8
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  9
+best fitness :  0.0
+worst fitness :  468809.32746005664
+Generalized_rosenbrock_function
+best fitness :  0.007682002175823305
+peor fitness :  188.63223039829535
+
+vamos en la iteracion  0
+best fitness :  0.00010086430584511786
+peor fitness :  188.64799064395265
+
+vamos en la iteracion  1
+best fitness :  0.6234865180748491
+peor fitness :  20812.89959700239
+
+vamos en la iteracion  2
+best fitness :  0.003605532715043501
+peor fitness :  20968.37479129658
+
+vamos en la iteracion  3
+best fitness :  0.9675469888944717
+peor fitness :  188.64792460778935
+
+vamos en la iteracion  4
+best fitness :  0.9675469888944717
+peor fitness :  29.0
+
+vamos en la iteracion  5
+best fitness :  0.9675469888944717
+peor fitness :  29.0
+
+vamos en la iteracion  6
+best fitness :  0.9675469888944717
+peor fitness :  29.0
+
+vamos en la iteracion  7
+best fitness :  0.9675469888944717
+peor fitness :  29.0
+
+vamos en la iteracion  8
+best fitness :  0.9675469888944717
+peor fitness :  29.0
+
+vamos en la iteracion  9
+best fitness :  0.00010086430584511786
+worst fitness :  20968.37479129658
+Generalized_schwefel_function_2_26
+best fitness :  -12569.486262114553
+peor fitness :  9016.336576021991
+
+vamos en la iteracion  0
+best fitness :  -12569.486505362325
+peor fitness :  9016.336575440857
+
+vamos en la iteracion  1
+best fitness :  -12569.486611387563
+peor fitness :  9016.33649469197
+
+vamos en la iteracion  2
+best fitness :  -12569.486608341143
+peor fitness :  9016.336522816071
+
+vamos en la iteracion  3
+best fitness :  -12569.486614873584
+peor fitness :  9016.33656596963
+
+vamos en la iteracion  4
+best fitness :  -12569.476009077825
+peor fitness :  9016.330417279865
+
+vamos en la iteracion  5
+best fitness :  -12569.484141132636
+peor fitness :  9016.301266643646
+
+vamos en la iteracion  6
+best fitness :  -12569.48397688559
+peor fitness :  9016.325883638217
+
+vamos en la iteracion  7
+best fitness :  -12569.484721485403
+peor fitness :  9016.336197932495
+
+vamos en la iteracion  8
+best fitness :  -12569.485345793033
+peor fitness :  9016.333248153534
+
+vamos en la iteracion  9
+best fitness :  -12569.486614873584
+worst fitness :  9016.336576021991
+Generalized_rastrigin_function
+best fitness :  0.0
+peor fitness :  2382.554571877774
+
+vamos en la iteracion  0
+best fitness :  0.0
+peor fitness :  189.34923989828664
+
+vamos en la iteracion  1
+best fitness :  0.0
+peor fitness :  300.28486487325506
+
+vamos en la iteracion  2
+best fitness :  0.0
+peor fitness :  312.49920371043294
+
+vamos en la iteracion  3
+best fitness :  0.0
+peor fitness :  524.9714683176139
+
+vamos en la iteracion  4
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  5
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  6
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  7
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  8
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  9
+best fitness :  0.0
+worst fitness :  2382.554571877774
+Ackley_function
+best fitness :  4.440892098500626e-16
+peor fitness :  22.23589571491911
+
+vamos en la iteracion  0
+best fitness :  4.440892098500626e-16
+peor fitness :  22.100331733508217
+
+vamos en la iteracion  1
+best fitness :  4.440892098500626e-16
+peor fitness :  22.124104999393502
+
+vamos en la iteracion  2
+best fitness :  4.440892098500626e-16
+peor fitness :  22.20429740171632
+
+vamos en la iteracion  3
+best fitness :  4.440892098500626e-16
+peor fitness :  22.189248871614094
+
+vamos en la iteracion  4
+best fitness :  4.440892098500626e-16
+peor fitness :  20.000135762842632
+
+vamos en la iteracion  5
+best fitness :  4.440892098500626e-16
+peor fitness :  20.000135762842632
+
+vamos en la iteracion  6
+best fitness :  4.440892098500626e-16
+peor fitness :  20.000135762842632
+
+vamos en la iteracion  7
+best fitness :  4.440892098500626e-16
+peor fitness :  20.000135762842632
+
+vamos en la iteracion  8
+best fitness :  4.440892098500626e-16
+peor fitness :  20.000061086573613
+
+vamos en la iteracion  9
+best fitness :  4.440892098500626e-16
+worst fitness :  22.23589571491911
+Generalized_griewank_function
+best fitness :  0.0
+peor fitness :  3.4690732207925076e+110
+
+vamos en la iteracion  0
+best fitness :  0.0
+peor fitness :  4.791742548284722
+
+vamos en la iteracion  1
+best fitness :  0.0
+peor fitness :  7.664391410236332
+
+vamos en la iteracion  2
+best fitness :  0.0
+peor fitness :  7.388097896939341
+
+vamos en la iteracion  3
+best fitness :  0.0
+peor fitness :  13.914856334127954
+
+vamos en la iteracion  4
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  5
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  6
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  7
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  8
+best fitness :  0.0
+peor fitness :  0.0
+
+vamos en la iteracion  9
+best fitness :  0.0
+worst fitness :  3.4690732207925076e+110
